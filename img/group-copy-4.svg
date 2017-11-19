@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>1A862029-7233-486F-9B6C-BF0DB3A07FE9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkbox/on">
+            <g id="Group-Copy-4">
+                <circle id="Oval" fill="#2980B9" cx="8" cy="8" r="8"></circle>
+                <path d="M7.41492132,9.02470895 L6.47768645,8.08747409 C6.21822595,7.82801359 5.78965276,7.82155038 5.52930323,8.08189991 C5.2671386,8.34406455 5.27144935,8.76685507 5.53487741,9.03028313 L6.93794262,10.4333483 C6.93887268,10.4342784 6.9398049,10.4352052 6.94073929,10.4361288 C6.94165956,10.4370601 6.94258656,10.4379923 6.9435168,10.4389225 C7.20568143,10.7010872 7.6254581,10.6997903 7.88516837,10.44008 L11.1873149,7.13793341 C11.4529306,6.87231773 11.446507,6.45663136 11.1861575,6.19628183 C10.9239928,5.93411719 10.5042162,5.93541409 10.2445059,6.19512436 L7.41492132,9.02470895 Z" id="Tick" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
